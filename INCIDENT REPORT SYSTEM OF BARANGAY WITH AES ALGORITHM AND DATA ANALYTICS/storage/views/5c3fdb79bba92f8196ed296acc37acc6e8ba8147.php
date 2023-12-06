@@ -1,0 +1,1 @@
+<img src="<?php echo e(asset('/img/385-logo.png')); ?>" alt="" style="width:100px;"><?php /**PATH D:\xampp\htdocs\barrio\resources\views/vendor/jetstream/components/application-mark.blade.php ENDPATH**/ ?>
