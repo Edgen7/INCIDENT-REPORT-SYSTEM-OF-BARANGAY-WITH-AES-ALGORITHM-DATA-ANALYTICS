@@ -1,0 +1,1 @@
+<img src="<?php echo e(asset('/img/taguiglogo.png')); ?>" alt="" style="width:100px;"><?php /**PATH C:\Users\eplum\Desktop\BRGY TANYAG\resources\views/vendor/jetstream/components/application-mark.blade.php ENDPATH**/ ?>
