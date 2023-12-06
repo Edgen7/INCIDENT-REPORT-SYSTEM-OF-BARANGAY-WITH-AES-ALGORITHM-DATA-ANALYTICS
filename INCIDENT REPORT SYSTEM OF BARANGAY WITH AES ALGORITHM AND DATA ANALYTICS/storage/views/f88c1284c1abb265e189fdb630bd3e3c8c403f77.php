@@ -1,0 +1,1 @@
+<img src="<?php echo e(asset('/img/taguiglogo.png')); ?>" alt="" style="width:200px;"><?php /**PATH C:\Users\eplum\Desktop\BRGY TANYAG\resources\views/vendor/jetstream/components/authentication-card-logo.blade.php ENDPATH**/ ?>
